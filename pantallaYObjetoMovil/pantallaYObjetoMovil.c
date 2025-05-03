@@ -6,7 +6,7 @@
 
 /*
 implementar:
-    -loop de juego (especie de loop que refresca el programa cada segundo permitiendo eventos 
+    -loop de juego (especie de loop que refresca el programa cada movimiento permitiendo eventos 
 	como el movimiento del punto en la pantalla).
 	-ire haciendo algunos experimentos (siguientes versiones) con este codigo base.
 */
